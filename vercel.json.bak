@@ -13,18 +13,6 @@
   ],
   "routes": [
     {
-      "src": "/admin",
-      "dest": "/index.html"
-    },
-    {
-      "src": "/dashboard",
-      "dest": "/index.html"
-    },
-    {
-      "src": "/shop",
-      "dest": "/index.html"
-    },
-    {
       "src": "/(.*)",
       "dest": "/web-apps/index.html"
     },

@@ -32,9 +32,9 @@ class DeployManager {
             'vercel.json', 
             'netlify.toml',
             'package.json',
-            '3d-conversion-system/simple-3d-converter.html',
-            'payment-systems/auth-system.html',
-            'payment-systems/financial-management.html',
+            '3d-conversion-system/index.html',
+            'payment-systems/crypto-management.html',
+            'payment-systems/crypto-management.html',
             'payment-systems/crypto-management.html'
         ];
 

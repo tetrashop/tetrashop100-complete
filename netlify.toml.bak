@@ -27,35 +27,5 @@
   to = "/payment-systems/crypto-management.html"
 
 [[redirects]]
-  [[redirects]]
-  from = "/admin"
-  to = "/index.html"
-  status = 200
-
-  [[redirects]]
-  from = "/dashboard"
-  to = "/index.html"
-  status = 200
-
-  [[redirects]]
-  from = "/shop"
-  to = "/index.html"
-  status = 200
-
   from = "/user"
-  [[redirects]]
-  from = "/admin"
-  to = "/index.html"
-  status = 200
-
-  [[redirects]]
-  from = "/dashboard"
-  to = "/index.html"
-  status = 200
-
-  [[redirects]]
-  from = "/shop"
-  to = "/index.html"
-  status = 200
-
   to = "/payment-systems/user-dashboard.html"
